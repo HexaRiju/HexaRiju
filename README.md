@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Android app development**
 
-- 💬 Ask me about **Java , C , Kotlin , Android**
+- 💬 Ask me about **Java , C **
 
 - 📫 How to reach me **dbhattacharyya2004@gmail.com**
 
